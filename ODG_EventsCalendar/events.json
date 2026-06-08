@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "updated": "2026-06-06T00:00:00",
+    "source": "darts1.de",
+    "count": 21
+  },
+  "events": [
+    {
+      "org": "PDC",
+      "name": "Nordic Darts Masters",
+      "date_start": "2026-06-05",
+      "date_end": "2026-06-06",
+      "location": "Copenhagen, Denmark"
+    },
+    {
+      "org": "PDC",
+      "name": "PDC World Cup of Darts",
+      "date_start": "2026-06-11",
+      "date_end": "2026-06-14",
+      "location": "Frankfurt, Germany"
+    },
+    {
+      "org": "PDC",
+      "name": "European Tour 9",
+      "date_start": "2026-06-19",
+      "date_end": "2026-06-21",
+      "location": "Bratislava, Slovakia"
+    },
+    {
+      "org": "PDC",
+      "name": "U.S. Darts Masters",
+      "date_start": "2026-06-27",
+      "date_end": "2026-06-28",
+      "location": "Madison Square Garden, New York"
+    },
+    {
+      "org": "PDC",
+      "name": "European Tour 10",
+      "date_start": "2026-07-10",
+      "date_end": "2026-07-12",
+      "location": "Leverkusen, Germany"
+    },
+    {
+      "org": "PDC",
+      "name": "World Matchplay",
+      "date_start": "2026-07-18",
+      "date_end": "2026-07-26",
+      "location": "Winter Gardens, Blackpool"
+    },
+    {
+      "org": "PDC",
+      "name": "New Zealand Darts Masters",
+      "date_start": "2026-08-14",
+      "date_end": "2026-08-15",
+      "location": "Auckland, New Zealand"
+    },
+    {
+      "org": "PDC",
+      "name": "Australian Darts Masters",
+      "date_start": "2026-08-21",
+      "date_end": "2026-08-22",
+      "location": "Wollongong, Australia"
+    },
+    {
+      "org": "PDC",
+      "name": "European Tour 11",
+      "date_start": "2026-08-28",
+      "date_end": "2026-08-30",
+      "location": "Budapest, Hungary"
+    },
+    {
+      "org": "PDC",
+      "name": "European Tour 12",
+      "date_start": "2026-09-04",
+      "date_end": "2026-09-06",
+      "location": "Prague, Czech Republic"
+    },
+    {
+      "org": "PDC",
+      "name": "European Tour 13",
+      "date_start": "2026-09-11",
+      "date_end": "2026-09-13",
+      "location": "Antwerp, Belgium"
+    },
+    {
+      "org": "PDC",
+      "name": "World Series of Darts Finals",
+      "date_start": "2026-09-17",
+      "date_end": "2026-09-20",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "org": "PDC",
+      "name": "World Grand Prix",
+      "date_start": "2026-09-28",
+      "date_end": "2026-10-04",
+      "location": "Leicester, England"
+    },
+    {
+      "org": "PDC",
+      "name": "European Tour 14",
+      "date_start": "2026-10-09",
+      "date_end": "2026-10-11",
+      "location": "Basel, Switzerland"
+    },
+    {
+      "org": "PDC",
+      "name": "European Tour 15",
+      "date_start": "2026-10-16",
+      "date_end": "2026-10-18",
+      "location": "Maastricht, Netherlands"
+    },
+    {
+      "org": "PDC",
+      "name": "European Championship",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-25",
+      "location": "Dortmund, Germany"
+    },
+    {
+      "org": "PDC",
+      "name": "Super League Darts",
+      "date_start": "2026-11-03",
+      "date_end": "2026-11-06",
+      "location": "Hildesheim, Germany"
+    },
+    {
+      "org": "PDC",
+      "name": "Grand Slam of Darts",
+      "date_start": "2026-11-14",
+      "date_end": "2026-11-22",
+      "location": "Wolverhampton, England"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship Finals",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-29",
+      "location": "Minehead, England"
+    },
+    {
+      "org": "WDF",
+      "name": "WDF World Championship",
+      "date_start": "2026-11-27",
+      "date_end": "2026-12-06",
+      "location": "Lakeside Country Club, Frimley Green"
+    },
+    {
+      "org": "PDC",
+      "name": "PDC World Darts Championship",
+      "date_start": "2026-12-10",
+      "date_end": "2027-01-03",
+      "location": "Alexandra Palace, London"
+    }
+  ]
+}
