@@ -99,9 +99,17 @@ def days_status(s_str, e_str):
     days = (sd - t).days
     return days, f"{days}d"
 
+ABBREV = [
+    ("Players Championship", "Pl. Championship"),
+]
+
 def shorten(name, max_len):
     for p in ["PDC ","WDF "]:
         if name.startswith(p): name = name[len(p):]
+    for full, short in ABBREV:
+        if full in name:
+            name = name.replace(full, short)
+            break
     return name[:max_len]
 
 def shorten_loc(loc, max_len):
@@ -284,8 +292,8 @@ def main():
     dn       = Dartsnut()
     assets   = load_assets()
     params   = dn.widget_params if hasattr(dn,'widget_params') else {}
-    show_pdc = params.get("show_pdc", "true") != "false"
-    show_wdf = params.get("show_wdf", "true") != "false"
+    show_pdc = params.get("show_pdc", True)
+    show_wdf = params.get("show_wdf", True)
 
     events     = []
     last_load  = 0
