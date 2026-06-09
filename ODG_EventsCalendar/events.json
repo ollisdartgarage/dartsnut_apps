@@ -1,23 +1,37 @@
 {
   "meta": {
-    "updated": "2026-06-06T00:00:00",
+    "updated": "2026-06-09T00:00:00",
     "source": "darts1.de",
-    "count": 21
+    "count": 41
   },
   "events": [
-    {
-      "org": "PDC",
-      "name": "Nordic Darts Masters",
-      "date_start": "2026-06-05",
-      "date_end": "2026-06-06",
-      "location": "Copenhagen, Denmark"
-    },
     {
       "org": "PDC",
       "name": "PDC World Cup of Darts",
       "date_start": "2026-06-11",
       "date_end": "2026-06-14",
       "location": "Frankfurt, Germany"
+    },
+    {
+      "org": "WDF",
+      "name": "WDF Finnish Open",
+      "date_start": "2026-06-12",
+      "date_end": "2026-06-14",
+      "location": "Vantaa, Finland"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship 21",
+      "date_start": "2026-06-16",
+      "date_end": "2026-06-16",
+      "location": "Wigan, England"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship 22",
+      "date_start": "2026-06-17",
+      "date_end": "2026-06-17",
+      "location": "Wigan, England"
     },
     {
       "org": "PDC",
@@ -32,6 +46,27 @@
       "date_start": "2026-06-27",
       "date_end": "2026-06-28",
       "location": "Madison Square Garden, New York"
+    },
+    {
+      "org": "WDF",
+      "name": "WDF Gibraltar Open",
+      "date_start": "2026-07-04",
+      "date_end": "2026-07-05",
+      "location": "Gibraltar"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship 23",
+      "date_start": "2026-07-06",
+      "date_end": "2026-07-06",
+      "location": "Leicester, England"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship 24",
+      "date_start": "2026-07-07",
+      "date_end": "2026-07-07",
+      "location": "Leicester, England"
     },
     {
       "org": "PDC",
@@ -49,6 +84,27 @@
     },
     {
       "org": "PDC",
+      "name": "Players Championship 25",
+      "date_start": "2026-07-28",
+      "date_end": "2026-07-28",
+      "location": "Hildesheim, Germany"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship 26",
+      "date_start": "2026-07-29",
+      "date_end": "2026-07-29",
+      "location": "Hildesheim, Germany"
+    },
+    {
+      "org": "WDF",
+      "name": "WDF Belgium Open",
+      "date_start": "2026-07-31",
+      "date_end": "2026-08-02",
+      "location": "Antwerp, Belgium"
+    },
+    {
+      "org": "PDC",
       "name": "New Zealand Darts Masters",
       "date_start": "2026-08-14",
       "date_end": "2026-08-15",
@@ -60,6 +116,34 @@
       "date_start": "2026-08-21",
       "date_end": "2026-08-22",
       "location": "Wollongong, Australia"
+    },
+    {
+      "org": "WDF",
+      "name": "WDF Swedish Open",
+      "date_start": "2026-08-21",
+      "date_end": "2026-08-23",
+      "location": "Malmö, Sweden"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship 27",
+      "date_start": "2026-08-25",
+      "date_end": "2026-08-25",
+      "location": "Leicester, England"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship 28",
+      "date_start": "2026-08-26",
+      "date_end": "2026-08-26",
+      "location": "Leicester, England"
+    },
+    {
+      "org": "WDF",
+      "name": "WDF Welsh Open",
+      "date_start": "2026-08-27",
+      "date_end": "2026-08-30",
+      "location": "North Somerset, Wales"
     },
     {
       "org": "PDC",
@@ -88,6 +172,27 @@
       "date_start": "2026-09-17",
       "date_end": "2026-09-20",
       "location": "Amsterdam, Netherlands"
+    },
+    {
+      "org": "WDF",
+      "name": "WDF British Open",
+      "date_start": "2026-09-18",
+      "date_end": "2026-09-20",
+      "location": "Bridlington, England"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship 29",
+      "date_start": "2026-09-22",
+      "date_end": "2026-09-22",
+      "location": "Den Bosch, Netherlands"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship 30",
+      "date_start": "2026-09-23",
+      "date_end": "2026-09-23",
+      "location": "Den Bosch, Netherlands"
     },
     {
       "org": "PDC",
@@ -119,10 +224,45 @@
     },
     {
       "org": "PDC",
+      "name": "Players Championship 31",
+      "date_start": "2026-10-28",
+      "date_end": "2026-10-28",
+      "location": "Den Bosch, Netherlands"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship 32",
+      "date_start": "2026-10-29",
+      "date_end": "2026-10-29",
+      "location": "Den Bosch, Netherlands"
+    },
+    {
+      "org": "PDC",
       "name": "Super League Darts",
       "date_start": "2026-11-03",
       "date_end": "2026-11-06",
       "location": "Hildesheim, Germany"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship 33",
+      "date_start": "2026-11-04",
+      "date_end": "2026-11-04",
+      "location": "Leicester, England"
+    },
+    {
+      "org": "PDC",
+      "name": "Players Championship 34",
+      "date_start": "2026-11-05",
+      "date_end": "2026-11-05",
+      "location": "Leicester, England"
+    },
+    {
+      "org": "WDF",
+      "name": "WDF Irish Open",
+      "date_start": "2026-11-13",
+      "date_end": "2026-11-15",
+      "location": "Killarney, Ireland"
     },
     {
       "org": "PDC",
